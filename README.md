@@ -1,3 +1,3 @@
 # git-hooks-nodejs
 
-Testing 
+Testing hooks
